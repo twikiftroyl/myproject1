@@ -1,0 +1,808 @@
+fileFormatVersion: 2
+guid: 3820cda87baa5f14e8762dea4aa6a1c2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6133448283857944527
+    second: locked_sarcophagus_0
+  - first:
+      213: 1272740829553572860
+    second: locked_sarcophagus_1
+  - first:
+      213: -302625145567099911
+    second: locked_sarcophagus_2
+  - first:
+      213: -138114786806124534
+    second: locked_sarcophagus_3
+  - first:
+      213: 7363696313612270516
+    second: locked_sarcophagus_4
+  - first:
+      213: 4975935453148994901
+    second: locked_sarcophagus_5
+  - first:
+      213: -4457165132684119722
+    second: locked_sarcophagus_6
+  - first:
+      213: -8531235909123200974
+    second: locked_sarcophagus_7
+  - first:
+      213: 8794801431357328721
+    second: locked_sarcophagus_8
+  - first:
+      213: 3145322662977889552
+    second: locked_sarcophagus_9
+  - first:
+      213: 4795581795360827248
+    second: locked_sarcophagus_10
+  - first:
+      213: -3220656227166023194
+    second: locked_sarcophagus_11
+  - first:
+      213: 5811728179254152144
+    second: locked_sarcophagus_12
+  - first:
+      213: 4230299257893742146
+    second: locked_sarcophagus_13
+  - first:
+      213: 3469675921189495018
+    second: locked_sarcophagus_14
+  - first:
+      213: -5951904978924222491
+    second: locked_sarcophagus_15
+  - first:
+      213: 7979358750524234292
+    second: locked_sarcophagus_16
+  - first:
+      213: -5369214324467800877
+    second: locked_sarcophagus_17
+  - first:
+      213: 3649725714250422460
+    second: locked_sarcophagus_18
+  - first:
+      213: -1296069146191206164
+    second: locked_sarcophagus_19
+  - first:
+      213: 3826675572602325245
+    second: locked_sarcophagus_20
+  - first:
+      213: 6100070306582615783
+    second: locked_sarcophagus_21
+  - first:
+      213: -553919752794830226
+    second: locked_sarcophagus_22
+  - first:
+      213: -3485958635354658999
+    second: locked_sarcophagus_23
+  - first:
+      213: -5398848402876679998
+    second: locked_sarcophagus_24
+  - first:
+      213: 6558025155915361094
+    second: locked_sarcophagus_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: locked_sarcophagus_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 522
+        height: 759
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcff49fb7b26e1550800000000000000
+      internalID: 6133448283857944527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: locked_sarcophagus_1
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 34
+        width: 328
+        height: 713
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb3dac8a0fa9a110800000000000000
+      internalID: 1272740829553572860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: locked_sarcophagus_2
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 660
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f34f52980cdccbf0800000000000000
+      internalID: -302625145567099911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: locked_sarcophagus_3
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 655
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a00313a4551551ef0800000000000000
+      internalID: -138114786806124534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: locked_sarcophagus_4
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 1
+        width: 319
+        height: 740
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb76be58ca113660800000000000000
+      internalID: 7363696313612270516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: locked_sarcophagus_5
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 606
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55dd7365ee21e0540800000000000000
+      internalID: 4975935453148994901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: locked_sarcophagus_6
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 503
+        width: 25
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6513b194de7f422c0800000000000000
+      internalID: -4457165132684119722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: locked_sarcophagus_7
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 548
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238a7ad1426fa9980800000000000000
+      internalID: -8531235909123200974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: locked_sarcophagus_8
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 493
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d86221e496d0a70800000000000000
+      internalID: 8794801431357328721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: locked_sarcophagus_9
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 497
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01568ce1c4e66ab20800000000000000
+      internalID: 3145322662977889552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: locked_sarcophagus_10
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 467
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 077efcb1c345d8240800000000000000
+      internalID: 4795581795360827248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: locked_sarcophagus_11
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 414
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e19e14a93eed43d0800000000000000
+      internalID: -3220656227166023194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: locked_sarcophagus_12
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 396
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db4297bcf767a050800000000000000
+      internalID: 5811728179254152144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: locked_sarcophagus_13
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 305
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246ea5013ca05ba30800000000000000
+      internalID: 4230299257893742146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: locked_sarcophagus_14
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 242
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0e9300ed3c62030800000000000000
+      internalID: 3469675921189495018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: locked_sarcophagus_15
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 202
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7c75ac4f5966da0800000000000000
+      internalID: -5951904978924222491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: locked_sarcophagus_16
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 172
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ad664d1806cbe60800000000000000
+      internalID: 7979358750524234292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: locked_sarcophagus_17
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 158
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d4682be408bc75b0800000000000000
+      internalID: -5369214324467800877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: locked_sarcophagus_18
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 107
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb85185333e66a230800000000000000
+      internalID: 3649725714250422460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: locked_sarcophagus_19
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 105
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce8ede87aff630ee0800000000000000
+      internalID: -1296069146191206164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: locked_sarcophagus_20
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 93
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df840af98251b1530800000000000000
+      internalID: 3826675572602325245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: locked_sarcophagus_21
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 42
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e6d3c0df9dc7a450800000000000000
+      internalID: 6100070306582615783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: locked_sarcophagus_22
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 39
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a879c6be41058f0800000000000000
+      internalID: -553919752794830226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: locked_sarcophagus_23
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 31
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 947eafd27136f9fc0800000000000000
+      internalID: -3485958635354658999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: locked_sarcophagus_24
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 1
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8b95e5bff6315b0800000000000000
+      internalID: -5398848402876679998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: locked_sarcophagus_25
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 29
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b29662229c20b50800000000000000
+      internalID: 6558025155915361094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      locked_sarcophagus_0: 6133448283857944527
+      locked_sarcophagus_1: 1272740829553572860
+      locked_sarcophagus_10: 4795581795360827248
+      locked_sarcophagus_11: -3220656227166023194
+      locked_sarcophagus_12: 5811728179254152144
+      locked_sarcophagus_13: 4230299257893742146
+      locked_sarcophagus_14: 3469675921189495018
+      locked_sarcophagus_15: -5951904978924222491
+      locked_sarcophagus_16: 7979358750524234292
+      locked_sarcophagus_17: -5369214324467800877
+      locked_sarcophagus_18: 3649725714250422460
+      locked_sarcophagus_19: -1296069146191206164
+      locked_sarcophagus_2: -302625145567099911
+      locked_sarcophagus_20: 3826675572602325245
+      locked_sarcophagus_21: 6100070306582615783
+      locked_sarcophagus_22: -553919752794830226
+      locked_sarcophagus_23: -3485958635354658999
+      locked_sarcophagus_24: -5398848402876679998
+      locked_sarcophagus_25: 6558025155915361094
+      locked_sarcophagus_3: -138114786806124534
+      locked_sarcophagus_4: 7363696313612270516
+      locked_sarcophagus_5: 4975935453148994901
+      locked_sarcophagus_6: -4457165132684119722
+      locked_sarcophagus_7: -8531235909123200974
+      locked_sarcophagus_8: 8794801431357328721
+      locked_sarcophagus_9: 3145322662977889552
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
